@@ -1,6 +1,8 @@
 #include<iostream>
 #include<algorithm>
 
+//Algorithm should be included to use max() function
+
 using namespace std;
 
 int main()
