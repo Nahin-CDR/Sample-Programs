@@ -47,6 +47,8 @@ int main()
     //now we are going to delete all 4 elements
     //cause there are two 4 here
     
+    
+    cout<<"We have 4 = "<<ms.count(4)<<endl;
     ms.erase(4);
     
     for(auto it: ms)
